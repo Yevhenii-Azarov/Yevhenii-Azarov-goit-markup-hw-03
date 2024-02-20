@@ -36,6 +36,10 @@ img{
 /*=====/Common styles=====*/
 
 /*=======List Header styles=======*/
+.site-header{
+  padding: 24px 0;
+  border-bottom: 1px solid #e7e9fc;
+}
 .header-container {
   display: flex;
   align-items: center;
@@ -281,7 +285,7 @@ color: #2e2f42;
     color: #4d5ae5;
     max-width: 115px;
     display: inline-block;
-    margin-bottom: ;
+    margin-bottom: 16px;
 }
 .footer-logo-part{
   color: #f4f4fd;
